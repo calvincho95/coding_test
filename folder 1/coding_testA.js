@@ -16,6 +16,7 @@ contract TEST1 {
 * 학생 정보 조회 기능 - 특정 학생의 정보를 조회
   */
 
+/*
   struct Student {
     string name;
     uint number;
@@ -74,3 +75,5 @@ contract TEST1 {
      else 
      return "F";
     }
+
+*/
