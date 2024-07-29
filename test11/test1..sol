@@ -12,7 +12,7 @@ contract TEST10 {
 // 참가 금액은 0.05이더이다.
 
 // 예시 1 : 8,2,4,7,D,A
-// 예시 2 : 9,1,4,2,F,B
+// 예시 2 : 9,1,4,2,F,B.
 
     uint ticketPrice=0.05 ether;
     address owner;
